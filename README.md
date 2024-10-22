@@ -1,4 +1,4 @@
-# Rutenrevolte1
+# Rutenrevolte
 Ein klassisches Fishing-Spiel im Pixel-Art Stil zum entspannen.
 
 Spiel von Julian Bittner und David Danninger
